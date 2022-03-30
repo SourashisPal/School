@@ -18,6 +18,7 @@ public class Series3 {
 		System.out.print("Enter the value of n: ");
 		int n = sc.nextInt();
 		sc.close();
+
 		for (int i = 1; i <= n; i++) {
 			System.out.println(i * i);
 		}

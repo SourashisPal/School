@@ -20,6 +20,7 @@ public class DigitPoweredSummation {
 		System.out.print("Enter a number: ");
 		int n = sc.nextInt();
 		sc.close();
+
 		int copy = n, sum = 0, digits = 0;
 		for (; n != 0; n /= 10) {
 			digits++;

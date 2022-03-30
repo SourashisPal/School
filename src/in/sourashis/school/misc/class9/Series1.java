@@ -20,6 +20,7 @@ public class Series1 {
 		System.out.print("Enter the value of n: ");
 		int n = sc.nextInt();
 		sc.close();
+
 		double s = 0;
 		for (int i = 1, sign = 1; i <= n; i++, sign *= -1) {
 			s += sign * Math.pow(p, i) / Math.pow(p, i+1);

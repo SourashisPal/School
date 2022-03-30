@@ -20,6 +20,7 @@ public class SecondSmallest {
 		System.out.print("Enter three numbers: ");
 		int a = sc.nextInt(), b = sc.nextInt(), c = sc.nextInt();
 		sc.close();
+
 		int secondSmallest;
 		if (a > b && a < c || a < b && a > c) {
 			secondSmallest = a;
