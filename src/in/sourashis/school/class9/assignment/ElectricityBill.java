@@ -26,8 +26,7 @@ import java.util.Scanner;
  * </table>
  * <br>
  * In addition to the above, every customer has to pay Rs. 200 as Service Charge per month.<br>
- * Write a program to input the amount of units consumed and calculate the total charges payable  by the customer
- *
+ * Write a program to input the amount of units consumed and calculate the total charges payable by the customer.
  * @author Sourashis Pal
  */
 public class ElectricityBill {

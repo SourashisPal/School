@@ -3,7 +3,7 @@ package in.sourashis.school.class9.assignment;
 import java.util.Scanner;
 
 /**
- * Write a program to input 2 integers and check whether both the numbers are multiples of 7 or not
+ * Write a program to input 2 integers and check whether both the numbers are multiples of 7 or not.
  * @author Sourashis Pal
  */
 public class Check7Multiple {

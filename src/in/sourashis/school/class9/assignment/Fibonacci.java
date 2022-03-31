@@ -3,8 +3,8 @@ package in.sourashis.school.class9.assignment;
 import java.util.Scanner;
 
 /**
- * Write a program to print the fibonacci series up to n terms:-
- * 0 1 1 2 3 5 8 13 21 34 ... n terms
+ * Write a program to print the fibonacci series up to n terms:-<br>
+ * <code>0 1 1 2 3 5 8 13 21 34 ... n terms</code>
  * @author Sourashis Pal
  */
 public class Fibonacci {

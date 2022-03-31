@@ -3,7 +3,7 @@ package in.sourashis.school.class9.help;
 import java.util.Scanner;
 
 /**
- * Enter a number and calculate the summation of the power of its respective digit and check whether it is equal or not<br>
+ * Enter a number and calculate the summation of the power of its respective digit and check whether it is equal or not.<br>
  * E.g. 135<br>
  * 1<sup>1</sup> + 3<sup>2</sup> + 5<sup>3</sup> = 1 + 9 + 125 = 135<br>
  * Equal

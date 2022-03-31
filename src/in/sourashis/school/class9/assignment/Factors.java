@@ -3,7 +3,7 @@ package in.sourashis.school.class9.assignment;
 import java.util.Scanner;
 
 /**
- * Enter a number and print factors of the number
+ * Enter a number and print factors of the number.
  * @author Sourashis Pal
  */
 public class Factors {

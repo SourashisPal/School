@@ -3,7 +3,7 @@ package in.sourashis.school.class9.assignment;
 import java.util.Scanner;
 
 /**
- * Write a program to input an integer and check whether it is a 2-digit or a 3-digit number or not<br>
+ * Write a program to input an integer and check whether it is a 2-digit or a 3-digit number or not.<br>
  * In case it is not a 2-digit or a 3-digit number a relevant message "Not 2 or 3-digit number" should be displayed.
  * @author Sourashis Pal
  */

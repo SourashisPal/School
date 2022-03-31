@@ -3,7 +3,7 @@ package in.sourashis.school.class9.assignment;
 import java.util.Scanner;
 
 /**
- * Print multiplication table of an entered number
+ * Print multiplication table of an entered number.
  * @author Sourashis Pal
  */
 public class MultiplicationTable {

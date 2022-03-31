@@ -1,8 +1,8 @@
 package in.sourashis.school.class9.assignment;
 
 /**
- * Write a program to print the fibonacci series of 10 terms in reverse order:-
- * 34 21 13 8 5 3 2 1 1 0
+ * Write a program to print the fibonacci series of 10 terms in reverse order:-<br>
+ * <code>34 21 13 8 5 3 2 1 1 0</code>
  * @author Sourashis Pal
  */
 public class ReverseFibonacci {

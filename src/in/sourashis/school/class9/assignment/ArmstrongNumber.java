@@ -3,9 +3,9 @@ package in.sourashis.school.class9.assignment;
 import java.util.Scanner;
 
 /**
- * Enter a number and check whether it is an armstrong number or not<br>
- * An armstrong number is a number whose summation of cubes of each digit is equal to the number
- * E.g. 153 = 1<sup>3</sup> + 5<sup>3</sup> + 3<sup>3</sup> = 1 + 125 + 27 = 153
+ * Enter a number and check whether it is an armstrong number or not.<br>
+ * An armstrong number is a number whose summation of cubes of each digit is equal to the number<br>
+ * E.g. <code>153 = 1<sup>3</sup> + 5<sup>3</sup> + 3<sup>3</sup> = 1 + 125 + 27 = 153</code>
  * @author SourashisPal
  */
 public class ArmstrongNumber {

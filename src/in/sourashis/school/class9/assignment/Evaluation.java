@@ -4,11 +4,10 @@ import java.util.Scanner;
 
 /**
  * Write a program that outputs the results of the following evaluations based on the number entered by the user:<br>
- * i.   Cube root of the number <br>
+ * i.   Cube root of the number<br>
  * ii.  Absolute value of the number<br>
- * iii. Square root of the number <br>
+ * iii. Square root of the number<br>
  * iv.  Random numbers between 0 and 1
- *
  * @author Sourashis Pal
  */
 public class Evaluation {

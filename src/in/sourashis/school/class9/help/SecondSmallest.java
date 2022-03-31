@@ -3,10 +3,10 @@ package in.sourashis.school.class9.help;
 import java.util.Scanner;
 
 /**
- * Write a program to input three unequal numbers and display the second-smallest number<br>
+ * Write a program to input three unequal numbers and display the second-smallest number.<br>
  * Sample Input - <code>65 41 98</code><br>
  * Sample Output - <code>65</code><br>
- * Using Scanner class and nested if-else
+ * Using Scanner class and nested if-else.
  * @author Sourashis Pal
  */
 public class SecondSmallest {

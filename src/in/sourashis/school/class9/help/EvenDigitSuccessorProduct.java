@@ -4,7 +4,7 @@ import java.util.Scanner;
 
 /**
  * Write a program to input a number.
- * Display the product of the successor of even digits of the number entered by the user<br>
+ * Display the product of the successor of even digits of the number entered by the user.<br>
  * Input: <code>2745</code><br>
  * Output: <code>15</code>
  * @author Sourashis Pal

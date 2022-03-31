@@ -4,14 +4,14 @@ import java.util.Scanner;
 
 /**
  * Print the value of S, where<br>
- * S = 1/a + 2/a^2 + 3/a^3 + .... to n terms
+ * <code>S = 1/a + 2/a^2 + 3/a^3 + .... to n terms</code>
  * @author Sourashis Pal
  */
 public class Series5 {
 
 	/**
 	 * main() method
-	 * @author Sourashis Pal
+	 * @param args Command-line arguments
 	 */
 	public static void main(String[] args) {
 		Scanner sc = new Scanner(System.in);

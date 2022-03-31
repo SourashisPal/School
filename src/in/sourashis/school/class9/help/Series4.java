@@ -4,7 +4,7 @@ import java.util.Scanner;
 
 /**
  * Print the following series:-<br>
- * 3 6 9 12 ... n terms
+ * <code>3 6 9 12 ... n terms</code>
  * @author Sourashis Pal
  */
 public class Series4 {

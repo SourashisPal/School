@@ -3,13 +3,13 @@ package in.sourashis.school.class9.help;
 import java.util.Scanner;
 
 /**
- * Write a program to calculate the hypotenuse of a right-angled triangle using the method pythagoras()
+ * Write a program to calculate the hypotenuse of a right-angled triangle using the method <code>pythagoras()</code>.
  * @author Sourashis Pal
  */
 public class Hypotenuse {
 
 	/**
-	 * Calculates the hypotenuse of a right-angled traingle
+	 * Calculates the hypotenuse of a right-angled triangle.
 	 * @param base Base of the triangle
 	 * @param height Height of the triangle
 	 * @return Hypotenuse of the triangle

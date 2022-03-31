@@ -3,8 +3,8 @@ package in.sourashis.school.class9.assignment;
 import java.util.Scanner;
 
 /**
- * Print the following:-
- * 3, 6, 9, 12, ... n terms
+ * Print the following:-<br>
+ * <code>3, 6, 9, 12, ... n terms</code>
  * @author Sourashis Pal
  */
 public class MultiplesOf3 {

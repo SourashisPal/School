@@ -1,7 +1,7 @@
 package in.sourashis.school.class9.assignment;
 
 /**
- * Print all even numbers from 100 to 200
+ * Print all even numbers from 100 to 200.
  * @author Sourashis Pal
  */
 public class Evens {

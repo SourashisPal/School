@@ -1,7 +1,7 @@
 package in.sourashis.school.class9.assignment;
 
 /**
- * Print all odd numbers from 100 to 200
+ * Print all odd numbers from 100 to 200.
  * @author Sourashis Pal
  */
 public class Odds {

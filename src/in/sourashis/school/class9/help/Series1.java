@@ -4,7 +4,7 @@ import java.util.Scanner;
 
 /**
  * Print the sum of the following series:-<br>
- * p/p^2 - p^2/p^3 + p^3/p^4 &#177 p^n/p^(n+1)
+ * <code>p/p^2 - p^2/p^3 + p^3/p^4 &#177; p^n/p^(n+1)</code>
  * @author Sourashis Pal
  */
 public class Series1 {

@@ -3,7 +3,7 @@ package in.sourashis.school.class9.assignment;
 import java.util.Scanner;
 
 /**
- * Write a program to input time in seconds and display the time broken up into hours, minutes and seconds
+ * Write a program to input time in seconds and display the time broken up into hours, minutes and seconds.
  * @author Sourashis Pal
  */
 public class TimeConversion {

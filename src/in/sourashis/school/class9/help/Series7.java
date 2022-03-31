@@ -4,7 +4,7 @@ import java.util.Scanner;
 
 /**
  * Print the sum of the following series:-
- * S = 1 + (1*2) + (1*2*3) + ... n terms
+ * <code>S = 1 + (1*2) + (1*2*3) + ... n terms</code>
  * @author Sourashis Pal
  */
 public class Series7 {

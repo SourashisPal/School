@@ -3,27 +3,26 @@ package in.sourashis.school.class9.assignment;
 import java.util.Scanner;
 
 /**
- * A library charges a fine for books returned late
+ * A library charges a fine for books returned late.
  * Following are the fines:<br>
  * <br>
  * <table>
- *     <caption>Fines</caption>
+ *     <caption>Library Fines</caption>
  *     <tr>
- *         <td>First five days : </td>
- *         <td>40 paise per day.</td>
+ *         <td>First five days:</td>
+ *         <td>40 paise per day</td>
  *     </tr
  *     ><tr>
- *         <td>Six to ten days : </td>
- *         <td>65 paise per day.</td>
+ *         <td>Six to ten days:</td>
+ *         <td>65 paise per day</td>
  *     </tr>
  *     <tr>
- *         <td>Above ten days : </td>
- *         <td>80 paise per day.</td>
+ *         <td>Above ten days:</td>
+ *         <td>80 paise per day</td>
  *     </tr>
  * </table>
  * <br>
- * Design a program to calculate the fine assuming that a book is returned N days later
- *
+ * Design a program to calculate the fine assuming that a book is returned N days later.
  * @author Sourashis Pal
  */
 public class LibraryFine {

@@ -3,8 +3,9 @@ package in.sourashis.school.class9.assignment;
 import java.util.Scanner;
 
 /**
- * Print the sum of the following series:-
- * 3/4 - 5/6 + 7/8 - 9/11 ... ± n/(n+1)
+ * Print the sum of the following series:-<br>
+ * <code>3/4 - 5/6 + 7/8 - 9/11 ... ± n/(n+1)</code>
+ * @author Sourashis Pal
  */
 public class Series2 {
     /**

@@ -3,7 +3,7 @@ package in.sourashis.school.class9.assignment;
 import java.util.Scanner;
 
 /**
- * Write a program to input the radius and height of a cylinder and find its volume and total surface area
+ * Write a program to input the radius and height of a cylinder and find its volume and total surface area.
  * @author Sourashis Pal
  */
 public class Cylinder {

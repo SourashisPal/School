@@ -3,8 +3,7 @@ package in.sourashis.school.class9.assignment;
 import java.util.Scanner;
 
 /**
- * Write a program to input three integers and print the largest and the smallest number using<br>
- * Math.max() and Math.min() function
+ * Write a program to input three integers and print the largest and the smallest number using Math.max() and Math.min() function.
  * @author Sourashis Pal
  */
 public class LargestSmallest {

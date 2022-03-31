@@ -3,7 +3,7 @@ package in.sourashis.school.class9.assignment;
 import java.util.Scanner;
 
 /**
- * Write a program to input three integers and find the sum of the cube roots of their last digits
+ * Write a program to input three integers and find the sum of the cube roots of their last digits.
  * @author Sourashis Pal
  */
 public class SumCubeRootLast {

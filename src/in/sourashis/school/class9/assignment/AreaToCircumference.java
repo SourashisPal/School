@@ -3,7 +3,7 @@ package in.sourashis.school.class9.assignment;
 import java.util.Scanner;
 
 /**
- * Write a program to input the area of a circle and find its circumference
+ * Write a program to input the area of a circle and find its circumference.
  * @author Sourashis Pal
  */
 public class AreaToCircumference {

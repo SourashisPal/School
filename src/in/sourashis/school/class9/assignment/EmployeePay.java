@@ -3,7 +3,8 @@ package in.sourashis.school.class9.assignment;
 import java.util.Scanner;
 
 /**
- * Write a program to input the Basic Pay of an employee and calculate the Gross Pay of the employee<br><br>
+ * Write a program to input the Basic Pay of an employee and calculate the Gross Pay of the employee.<br>
+ * <br>
  * Dearness Allowance = 25% of Basic Pay<br>
  * House Rent Allowance = 15% of Basic pay<br>
  * Provident Fund = 8.33% of Basic Pay<br>

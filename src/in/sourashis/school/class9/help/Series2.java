@@ -4,7 +4,7 @@ import java.util.Scanner;
 
 /**
  * Enter the value of n and print the following series:-<br>
- * -1 + 4 - 27 + 256 ... &#177 n
+ * <code>-1 + 4 - 27 + 256 ... &#177; n</code>
  * @author Sourashis Pal
  */
 public class Series2 {

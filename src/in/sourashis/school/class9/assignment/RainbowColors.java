@@ -5,15 +5,16 @@ import java.util.Scanner;
 /**
  * Print color of rainbow as per user's choice.<br>
  * <br>
- * 1 	-	Violet
- * 2	-	Indigo
- * 3 	-	Blue
- * 4	-	Green
- * 5	-	Yellow
- * 6	-	Orange
- * 7	-	Red
- *
- * Otherwise, Wrong Input
+ * 1 	-	Violet<br>
+ * 2	-	Indigo<br>
+ * 3 	-	Blue<br>
+ * 4	-	Green<br>
+ * 5	-	Yellow<br>
+ * 6	-	Orange<br>
+ * 7	-	Red<br>
+ * <br>
+ * Otherwise, Wrong Input<br>
+ * @author Sourashis Pal
  */
 public class RainbowColors {
 

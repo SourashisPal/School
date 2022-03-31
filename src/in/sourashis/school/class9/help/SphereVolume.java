@@ -3,13 +3,13 @@ package in.sourashis.school.class9.help;
 import java.util.Scanner;
 
 /**
- * Write a program to create a function which calculates the volume of a sphere
+ * Write a program to create a function which calculates the volume of a sphere.
  * @author Sourashis Pal
  */
 public class SphereVolume {
 
 	/**
-	 * Calculates the volume of a sphere
+	 * Calculates the volume of a sphere.
 	 * @param radius Radius of the sphere
 	 * @return Volume of the sphere
 	 */

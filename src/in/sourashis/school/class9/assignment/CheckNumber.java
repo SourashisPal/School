@@ -3,7 +3,7 @@ package in.sourashis.school.class9.assignment;
 import java.util.Scanner;
 
 /**
- * Write a program to input an integer and check whether it is greater than 100 or less than 100 or equal to 100
+ * Write a program to input an integer and check whether it is greater than 100 or less than 100 or equal to 100.
  * @author Sourashis Pal
  */
 public class CheckNumber {

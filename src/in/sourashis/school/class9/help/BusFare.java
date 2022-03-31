@@ -6,6 +6,7 @@ import java.util.Scanner;
  * An air-conditioned bus charges fare from the passengers based on the distance travelled as per the tariff given below:<br>
  * <br>
  * <table>
+ *     <caption>Bus Fare Tariff</caption>
  *     <tr>
  *         <th>Distance Travelled</th>
  *         <th>Fare</th>
@@ -27,7 +28,6 @@ import java.util.Scanner;
  *         <td>Rs. 4 / km</td>
  *     </tr>
  * </table>
- * <br>
  * @author Sourashis Pal
  */
 public class BusFare {

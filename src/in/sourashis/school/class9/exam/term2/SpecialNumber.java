@@ -5,14 +5,13 @@ import java.util.Scanner;
 /**
  * A special two-digit number is such that when the sum of its digits is added to the product of its digits, the result is equal to the original two-digit number.<br>
  * <br>
- * Example: Consider the number 59.
- * Sum of digits = 5 + 9 = 14
- * Product of digits = 5 * 9 = 49
+ * Example: Consider the number 59.<br>
+ * Sum of digits = 5 + 9 = 14<br>
+ * Product of digits = 5 * 9 = 49<br>
  * Total of the sum of digits and product of digits = 14 + 49 = 64<br>
  * <br>
  * Write a program to accept a two-digit number. Add the sum of its digits to the product of its digits.
  * If the value is equal to the number input, display the message "Special 2-digit number" otherwise, display the message "Not a special two-digit number"
- * <br>
  * @author Sourashis Pal
  */
 public class SpecialNumber {

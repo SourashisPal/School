@@ -3,8 +3,8 @@ package in.sourashis.school.class9.assignment;
 import java.util.Scanner;
 
 /**
- * Print the sum of the following series:-
- * 1/2 - 2/6 + 3/9 - 4/12 ... ± n/(n*3)
+ * Print the sum of the following series:-<br>
+ * <code>1/2 - 2/6 + 3/9 - 4/12 ... ± n/(n*3)</code>
  * @author Sourashis Pal
  */
 public class Series3 {

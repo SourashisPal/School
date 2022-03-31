@@ -3,8 +3,8 @@ package in.sourashis.school.class9.assignment;
 import java.util.Scanner;
 
 /**
- * Enter a number and count the number of zeros in it
- * E.g. - 40306 -> 2
+ * Enter a number and count the number of zeros in it.<br>
+ * E.g. - 40306 -&gt; 2
  * @author Sourashis Pal
  */
 public class ZeroCount {

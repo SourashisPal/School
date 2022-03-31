@@ -1,7 +1,7 @@
 package in.sourashis.school.class9.assignment;
 
 /**
- * Print all the multiples of 13 from 500 to 400
+ * Print all the multiples of 13 from 500 to 400.
  * @author Sourashis Pal
  */
 public class MultiplesOf13 {

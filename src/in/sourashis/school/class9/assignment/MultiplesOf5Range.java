@@ -3,7 +3,7 @@ package in.sourashis.school.class9.assignment;
 import java.util.Scanner;
 
 /**
- * Write a program to input two numbers and print all the multiples of 5 from lower value to upper value
+ * Write a program to input two numbers and print all the multiples of 5 from lower value to upper value.
  * @author Sourashis Pal
  */
 public class MultiplesOf5Range {

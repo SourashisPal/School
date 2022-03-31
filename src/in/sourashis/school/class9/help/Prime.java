@@ -3,8 +3,8 @@ package in.sourashis.school.class9.help;
 import java.util.Scanner;
 
 /**
- * Enter a number and check whether it is prime or not.
- * If it is not prime print the next prime nubmer
+ * Enter a number and check whether it is prime or not.<br>
+ * If it is not prime print the next prime number.
  * @author Sourashis Pal
  */
 public class Prime {

@@ -3,7 +3,7 @@ package in.sourashis.school.class9.assignment;
 import java.util.Scanner;
 
 /**
- * Enter a number and check whether it is palindrome or not
+ * Enter a number and check whether it is palindrome or not.<br>
  * E.g. 121
  * @author Sourashis Pal
  */

@@ -3,8 +3,7 @@ package in.sourashis.school.class9.assignment;
 import java.util.Scanner;
 
 /**
- * Enter a number, calculate the summation of the factors including 1 and excluding the number
- * and check whether the summation is equal to the number.
+ * Enter a number, calculate the summation of the factors including 1 and excluding the number and check whether the summation is equal to the number.
  * If yes, print "Perfect Number" else print "Not Perfect Number"
  * @author Sourashis Pal
  */

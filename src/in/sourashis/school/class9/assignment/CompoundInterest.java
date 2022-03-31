@@ -3,8 +3,9 @@ package in.sourashis.school.class9.assignment;
 import java.util.Scanner;
 
 /**
- * Write a program to input the principal, rate of interest and time and find the compound interest<br>
+ * Write a program to input the principal, rate of interest and time and find the compound interest.<br>
  * Compound Interest = <code>p((1+r)/100)<sup>t</sup> - p</code>
+ * @author Sourashis Pal
  */
 public class CompoundInterest {
 

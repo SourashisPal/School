@@ -3,19 +3,20 @@ package in.sourashis.school.class9.assignment;
 import java.util.Scanner;
 
 /**
- * Write a program to input three angles of a triangle and check whether a triangle is possible or not<br>
- * If possible then check whether it is an acute-angled triangle, right-angled or an obtuse-angled triangle<br>
+ * Write a program to input three angles of a triangle and check whether a triangle is possible or not.<br>
+ * If possible then check whether it is an acute-angled triangle, right-angled or an obtuse-angled triangle.<br>
  * Otherwise, display "Triangle not possible".<br>
  * <br>
  * Sample Input:<br>
+ * <code>
  * Enter three angles:-<br>
  * 40<br>
  * 50<br>
  * 90<br>
+ * </code>
  * <br>
  * Sample Output:<br>
- * Right-angled triangle<br>
- * <br>
+ * <code>Right-angled triangle</code><br>
  * @author Sourashis Pal
  */
 public class TriangleCheckByAngle {

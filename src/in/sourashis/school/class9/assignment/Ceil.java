@@ -3,8 +3,8 @@ package in.sourashis.school.class9.assignment;
 import java.util.Scanner;
 
 /**
- * Write a program to input a positive real number and display its Math.ceil() value<br>
- * Note that the function Math.ceil() should not be used
+ * Write a program to input a positive real number and display its Math.ceil() value.<br>
+ * Note that the function Math.ceil() should not be used.
  * @author Sourashis Pal
  */
 public class Ceil {

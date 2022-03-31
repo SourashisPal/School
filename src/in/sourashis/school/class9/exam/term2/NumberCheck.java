@@ -4,9 +4,9 @@ import java.util.Scanner;
 
 /**
  * Write a menu-driven program to accept a number from the user and check whether it is a Prime number or an Automorphic number.<br>
- * (a) Prime number: (A number is said to be prime, if it is only divisible by 1 and itself)<br>
+ * (a) Prime number: (A number is said to be prime, if it is only divisible by 1 and itself).<br>
  * <b>Example: </b>3, 5, 7, 11<br>
- * (b) Automorphic number: (Automorphic number is the number which is contained in the last digit(s) of its square.)<br>
+ * (b) Automorphic number: (Automorphic number is the number which is contained in the last digit(s) of its square).<br>
  * <b>Example: </b>25 is an Automorphic number, as its square is 625 and 25 is present as the last two digits.
  * @author Sourashis Pal
  */

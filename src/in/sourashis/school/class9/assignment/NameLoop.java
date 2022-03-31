@@ -1,7 +1,7 @@
 package in.sourashis.school.class9.assignment;
 
 /**
- * Write a program to print your name 100 times
+ * Write a program to print your name 100 times.
  * @author Sourashis Pal
  */
 public class NameLoop {

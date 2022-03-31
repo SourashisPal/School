@@ -6,6 +6,7 @@ import java.util.Scanner;
  * A company has employees, who are divided into four grades depending on their Basic pay per month as follows,<br>
  * <br>
  * <table>
+ *     <caption>Employee Grades and Pays</caption>
  *     <tr>
  *         <th>Basic (Rs./month)</th>
  *         <th>Grade</th>
@@ -38,14 +39,19 @@ import java.util.Scanner;
  *     </tr>
  * </table>
  * <br>
- * If the Net salary which is the total of Basic, DA, and HRA, is above Rs. 50,000 per month
+ * If the Net salary which is the total of Basic, DA, and HRA, is above Rs. 50,000 per month.
  * then Income Tax at the rate of 309% of the annual salary exceeding 50,000 is deducted on monthly basis.
- * Taking name of the employee and teh Basic (monthly) pay as inputs, prepare & print a payslip,
- * which contains Name, Grade, Basic monthly pay, DA, HRA, Monthly Income Tax and Net Monthly Salary, for employee
+ * Taking name of the employee and teh Basic (monthly) pay as inputs, prepare &amp; print a payslip,
+ * which contains Name, Grade, Basic monthly pay, DA, HRA, Monthly Income Tax and Net Monthly Salary, for employee.
  * <br>
  * @author Sourashis Pal
  */
 public class Salary {
+
+	/**
+	 * main() method
+	 * @param args Command-line arguments
+	 */
 	public static void main(String[] args) {
 		Scanner sc = new Scanner(System.in);
 		System.out.print("Enter name of the employee: ");

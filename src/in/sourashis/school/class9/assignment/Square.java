@@ -3,7 +3,7 @@ package in.sourashis.school.class9.assignment;
 import java.util.Scanner;
 
 /**
- * Write a program to input the area of a square and find its perimeter
+ * Write a program to input the area of a square and find its perimeter.
  * @author Sourashis Pal
  */
 public class Square {

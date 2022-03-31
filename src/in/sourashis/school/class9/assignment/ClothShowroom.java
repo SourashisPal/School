@@ -29,7 +29,8 @@ import java.util.Scanner;
  *     </tr>
  * </table>
  * <br>
- * Write a program to input the total cost and compute and display the amount to be paid by the customer after availing the discount
+ * Write a program to input the total cost and compute and display the amount to be paid by the customer after availing the discount.
+ * @author Sourashis Pal
  */
 public class ClothShowroom {
 

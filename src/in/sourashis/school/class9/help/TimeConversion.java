@@ -3,7 +3,7 @@ package in.sourashis.school.class9.help;
 import java.util.Scanner;
 
 /**
- * Take no. of days and convert into years, months and days
+ * Take no. of days and convert into years, months and days.
  * @author Sourashis Pal
  */
 public class TimeConversion {

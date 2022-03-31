@@ -3,8 +3,8 @@ package in.sourashis.school.class9.assignment;
 import java.util.Scanner;
 
 /**
- * Write a program to input a number and display 1, if it is positive and – 1, if it is negative<br>
- * Note: Math.abs() and no conditional statement should be used
+ * Write a program to input a number and display 1, if it is positive and – 1, if it is negative.<br>
+ * Note: Math.abs() and no conditional statement should be used.
  * @author Sourashis Pal
  */
 public class Sign {

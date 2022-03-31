@@ -3,7 +3,7 @@ package in.sourashis.school.class9.assignment;
 import java.util.Scanner;
 
 /**
- * Write a program to enter two numbers to find HCF and LCM of two numbers
+ * Write a program to enter two numbers to find HCF and LCM of two numbers.
  * @author Sourashis Pal
  */
 public class HcfLcm {

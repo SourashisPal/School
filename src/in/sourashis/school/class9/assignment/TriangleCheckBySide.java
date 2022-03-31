@@ -3,14 +3,14 @@ package in.sourashis.school.class9.assignment;
 import java.util.Scanner;
 
 /**
- * Write a program to accept three sides of a triangle as parameter and check whether it can form a triangle or not<br>
- * If it forms a triangle, check whether it is an acute-angled, obtuse-angled or right-angled triangle<br>
+ * Write a program to accept three sides of a triangle as parameter and check whether it can form a triangle or not<br>.
+ * If it forms a triangle, check whether it is an acute-angled, obtuse-angled or right-angled triangle.<br>
  * <br>
  * Hint: To form a triangle, each side should be less the sum of the other two sides.
  * <br>
- * To form an acute-angled triangle the square of every side should be less than the sum of the squares of the other two sides<br>
- * To form an obtuse-angled triangle the square of any side should be greater than the sum of the squares of the other two sides<br>
- * To form a right-angled triangle the square of any side should be equal to the sum of the squares of the other two sides
+ * To form an acute-angled triangle the square of every side should be less than the sum of the squares of the other two sides.<br>
+ * To form an obtuse-angled triangle the square of any side should be greater than the sum of the squares of the other two sides.<br>
+ * To form a right-angled triangle the square of any side should be equal to the sum of the squares of the other two sides.
  *
  * @author Sourashis Pal
  */

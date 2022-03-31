@@ -4,7 +4,7 @@ import java.util.Scanner;
 
 /**
  * Write a program to print the sum of the following series:-<br>
- * S = a/(a+1!) + a^2/(a+3!) + a^3/(a+5!) + a^4(a+7!) + ... &lt;10 terms&gt;
+ * <code>S = a/(a+1!) + a^2/(a+3!) + a^3/(a+5!) + a^4(a+7!) + ... &lt;10 terms&gt;</code>
  * @author Sourashis Pal
  */
 public class Series {

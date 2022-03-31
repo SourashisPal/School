@@ -1,7 +1,7 @@
 package in.sourashis.school.class9.assignment;
 
 /**
- * Print all numbers from 40 to 10 in reversed order
+ * Print all numbers from 40 to 10 in reversed order.
  * @author Sourashis Pal
  */
 public class NumberLoop {

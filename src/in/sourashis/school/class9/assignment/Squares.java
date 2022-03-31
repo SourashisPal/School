@@ -3,8 +3,8 @@ package in.sourashis.school.class9.assignment;
 import java.util.Scanner;
 
 /**
- * Print the following:-
- * 1, 4, 9, 16, 25, ... n terms
+ * Print the following:-<br>
+ * <code>1, 4, 9, 16, 25, ... n terms</code>
  * @author Sourashis Pal
  */
 public class Squares {

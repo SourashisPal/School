@@ -4,10 +4,10 @@ import java.util.Scanner;
 
 /**
  * Write a menu driver program to accept a number from the user and do the following:<br>
- * 1. Test for palindrome no. (by reversing the digits the no. does not change e.g. 121)<br>
- * 2. Find the sum of first and last digit? Hint:- use switch-case<br>
- * E.g - 2383<br>
- * Output - Sum of first and last digit is = 5<br>
+ * 1. Test for palindrome no. (by reversing the digits the no. does not change e.g. 121).<br>
+ * 2. Find the sum of first and last digit? Hint:- use switch-case.<br>
+ * E.g - <code>2383</code><br>
+ * Output - <code>Sum of first and last digit is = 5</code><br>
  * @author Sourashis Pal
  */
 public class NumberOperations {

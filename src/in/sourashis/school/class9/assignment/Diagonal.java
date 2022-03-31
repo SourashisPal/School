@@ -3,8 +3,8 @@ package in.sourashis.school.class9.assignment;
 import java.util.Scanner;
 
 /**
- * Write a program to input the length and breadth of a rectangle and find its diagonal<br>
- * Diagonal = <code>√(length<sup>2</sup> + breadth<sup>2</sup>)</code>
+ * Write a program to input the length and breadth of a rectangle and find its diagonal.<br>
+ * Diagonal = <code>&#8730;(length<sup>2</sup> + breadth<sup>2</sup>)</code>
  * @author Sourashis Pal
  */
 public class Diagonal {

@@ -3,8 +3,7 @@ package in.sourashis.school.class9.assignment;
 import java.util.Scanner;
 
 /**
- * Write a program to input the Selling Price and Cost Price of a commodity
- * and find the Profit or Loss made upon selling the product.
+ * Write a program to input the Selling Price and Cost Price of a commodity and find the Profit or Loss made upon selling the product.
  * @author Sourashis Pal
  */
 public class ProfitLoss {

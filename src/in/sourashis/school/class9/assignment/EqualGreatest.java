@@ -3,16 +3,16 @@ package in.sourashis.school.class9.assignment;
 import java.util.Scanner;
 
 /**
- * Write a program to input three numbers and check whether they are equal or not.
- * If they are unequal numbers then display the greatest among them.
- * Otherwise, display the message "All then numbers are equal".
- *
- * Sample Input: 34, 87, 61
- * Sample Output: Greatest number: 87
- *
- * Sample Input: 81,81, 81
- * Sample Output: All the numbers are equal
- *
+ * Write a program to input three numbers and check whether they are equal or not.<br>
+ * If they are unequal numbers then display the greatest among them.<br>
+ * Otherwise, display the message "All then numbers are equal".<br>
+ * <br>
+ * Sample Input: <code>34, 87, 61</code><br>
+ * Sample Output: Greatest number: <code>87</code><br>
+ * <br>
+ * Sample Input: <code>81, 81, 81</code><br>
+ * Sample Output: <code>All the numbers are equal</code><br>
+ * <br>
  * @author Sourashis Pal
  */
 public class EqualGreatest {

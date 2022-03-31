@@ -3,7 +3,7 @@ package in.sourashis.school.class9.assignment;
 import java.util.Scanner;
 
 /**
- * Write a program to input radius of a circle and calculate its area and perimeter
+ * Write a program to input radius of a circle and calculate its area and perimeter.
  * @author Sourashis Pal
  */
 public class Circle {

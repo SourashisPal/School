@@ -3,7 +3,7 @@ package in.sourashis.school.class9.assignment;
 import java.util.Scanner;
 
 /**
- * Write a program to input principal, rate of interest and time and calculate simple interest<br>
+ * Write a program to input principal, rate of interest and time and calculate simple interest.<br>
  * Simple Interest = <code>(p*r*t)/100</code>
  * @author Sourashis Pal
  */

@@ -4,7 +4,7 @@ import java.util.Scanner;
 
 /**
  * Print the value of S, where<br>
- * S = a - a^3 + a^5 - a^7 + .... n terms
+ * <code>S = a - a^3 + a^5 - a^7 + .... n terms</code>
  * @author Sourashis Pal
  */
 public class Series6 {

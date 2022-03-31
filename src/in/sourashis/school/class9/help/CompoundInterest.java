@@ -3,7 +3,7 @@ package in.sourashis.school.class9.help;
 import java.util.Scanner;
 
 /**
- * Write a program to create a method to calculate the compound interest on a certain sum of money
+ * Write a program to create a method to calculate the compound interest on a certain sum of money.
  * @author Sourashis Pal
  */
 public class CompoundInterest {
