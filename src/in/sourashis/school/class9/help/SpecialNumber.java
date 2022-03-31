@@ -15,7 +15,7 @@ import java.util.Scanner;
  * <br>
  * @author Sourashis Pal
  */
-public class Special2DigitNumber {
+public class SpecialNumber {
 
 	/**
 	 * main() method
