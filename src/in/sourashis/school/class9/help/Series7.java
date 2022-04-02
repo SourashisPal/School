@@ -19,10 +19,10 @@ public class Series7 {
         int n = sc.nextInt();
         sc.close();
 
-        int s = 0, product = 1;
+        int seriesSum = 0, product = 1;
         for (int i = 1; i <= n; i++, product *= i) {
-            s += product;
+            seriesSum += product;
         }
-        System.out.println("Sum of the series = " + s);
+        System.out.println("Sum of the series = " + seriesSum);
     }
 }
