@@ -20,14 +20,14 @@ public class Series2 {
 		int n = sc.nextInt();
 		sc.close();
 
-		int sum = 0;
+		double sum = 0;
 		for (int i = 2; i <= n; i++) {
-			int factorial = 1;
+			double factorial = 1;
 			for (int j = 1; j <= i; j++) {
 				factorial *= j;
 			}
 			sum += factorial / (i - 1);
 		}
-		System.out.println("Sum of the series = " + sum);
+		System.out.printf("Sum of the series = %.0f\n", sum);
 	}
 }
