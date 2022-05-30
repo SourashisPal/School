@@ -14,17 +14,14 @@ public class UniqueNumbers {
 	 */
 	public static void main(String[] args) {
 		Scanner sc = new Scanner(System.in);
-		System.out.print("Enter the number of elements: ");
-		int n = sc.nextInt();
-
-		int[] a = new int[n], b = new int[n];
+		int[] a = new int[10], b = new int[10];
 		int count = 0;
-		System.out.print("Enter the elements: ");
-		for (int i = 0; i < n; i++) {
+		System.out.print("Enter 10 numberse: ");
+		for (int i = 0; i < 10; i++) {
 			a[i] = sc.nextInt();
 		}
-		loop: for (int i = 0; i < n; i++) {
-			for (int j = 0; j < n; j++) {
+		loop: for (int i = 0; i < 10; i++) {
+			for (int j = 0; j < 10; j++) {
 				if (i != j && a[i] == a[j]) {
 					continue loop;
 				}
@@ -32,7 +29,7 @@ public class UniqueNumbers {
 			b[count++] = a[i];
 		}
 
-		System.out.print("Unique elements: ");
+		System.out.print("Unique numbers: ");
 		for (int i = 0; i < count; i++) {
 			System.out.print(b[i] + " ");
 		}
